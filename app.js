@@ -8,11 +8,8 @@ function calculartotal (itens) {
         total += itens[i].preco
     }
 
-    return total
-}
-
-
-
+    // aplica desconto de fidelidade
+    // antes de retornar o valor final
 
     return total
 }
