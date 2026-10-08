@@ -1,5 +1,5 @@
-# Loja Online
+# Loja Online - titulo para a campanha de frete
 
 ## Contato
 Duvidas:  contato@loja.com.br
-Contato tel: 21 00000-0000
+Contato Tel: 21 00000=0000
